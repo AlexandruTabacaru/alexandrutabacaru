@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-👨‍💻 "I am currently learning computer science and engineering at TU Delft and exploring my interests in software engineering and algorithms.<br><br>🤝 I am looking to collaborate on open-source projects to gain practical experience and contribute to the community.<br><br>📚 I am currently learning new programming languages and frameworks to broaden my knowledge and skillset."
+👨‍💻 I am currently learning computer science and engineering at TU Delft and exploring my interests in software engineering and algorithms.<br><br>🤝 I am looking to collaborate on open-source projects to gain practical experience and contribute to the community.<br><br>📚 I am currently learning new programming languages and frameworks to broaden my knowledge and skillset.
 
 
 ## 🌐 Socials:
